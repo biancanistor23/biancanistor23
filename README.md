@@ -4,10 +4,6 @@
 
 🎓 Second Year
 
-## About Me
-
-Hello! I'm Bianca, a passionate Computer Science student currently pursuing my education at BBU Faculty of Mathematics and Computer Science. I'm deeply intrigued by the ever-evolving world of technology and its potential to make a positive impact on society.
-
 ## Interests
 
 - 🖥️ Software Development
