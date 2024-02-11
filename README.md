@@ -1,17 +1,32 @@
-### Hi there 👋
+# Nistor Bianca
 
-Here are some ideas to get you started:
+👩‍💻 Computer Science Student at Babeș-Bolyai University Faculty of Mathematics and Computer Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
- - 👯 I’m looking to collaborate on ...
- - 🤔 I’m looking for help with ...
- - 💬 Ask me about ...
- - 📫 How to reach me: ...
- - 😄 Pronouns: ...
- - ⚡ Fun fact: ...<br>
-This site was built using [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).<br>
-[![Visits Badge](https://badges.pufler.dev/visits/braydoncoyer/braydoncoyer)](https:braydoncoyer.dev)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/braydoncoyer)
+🎓 Second Year
+
+## About Me
+
+Hello! I'm Bianca, a passionate Computer Science student currently pursuing my education at BBU Faculty of Mathematics and Computer Science. I'm deeply intrigued by the ever-evolving world of technology and its potential to make a positive impact on society.
+
+## Interests
+
+- 🖥️ Software Development
+- 🤖 Artificial Intelligence
+- 🌐 Web Development
+- 📱 Mobile App Development
+- 🎨 UX/UI Design
+
+## Skills
+
+- 💻 Programming Languages: Java, Python, C, C++, C#, Assembly, Lisp, Prolog
+- 🌐 Web Technologies: HTML/CSS
+- 📈 Data Analysis: SQL
+- 📊 Scientific Computing: MATLAB
+
+## Education
+
+- **BBU Faculty of Mathematics and Computer Science** - Bachelor of Computer Science (Expected Graduation: 2025)
+
+## Contact Me
+
+Feel free to reach out to me via 📧[email](mailto:bianca.nistor55@gmail.com) or connect with me on 🔗[LinkedIn](https://www.linkedin.com/in/bianca-nistor-812b20226/). I'm always open to new opportunities and collaborations! 😊🚀
