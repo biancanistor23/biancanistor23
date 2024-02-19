@@ -21,7 +21,7 @@
 
 ## Education
 
-- **BBU Faculty of Mathematics and Computer Science** - Bachelor of Computer Science (Expected Graduation: 2025)
+- **BBU Faculty of Mathematics and Computer Science** - Bachelor of Computer Science 2022-2025
 
 ## Contact Me
 
