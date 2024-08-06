@@ -2,12 +2,11 @@
 
 👩‍💻 Computer Science Student at Babeș-Bolyai University Faculty of Mathematics and Computer Science
 
-🎓 Second Year
+🎓 Third Year
 
 ## Interests
 
 - 🖥️ Software Development
-- 🤖 Artificial Intelligence
 - 🌐 Web Development
 - 📱 Mobile App Development
 - 🎨 UX/UI Design
