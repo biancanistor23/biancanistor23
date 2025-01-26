@@ -14,8 +14,8 @@
 ## Skills
 
 - 💻 Programming Languages: Java, Python, C, C++, C#, Assembly, Lisp, Prolog
-- 🌐 Web Technologies: HTML/CSS
-- 📈 Data Analysis: SQL
+- 👾 Backend Technologies: Node.js, Express.js, Java, Php, Python, .NET
+- 🌐 Frontend Technologies: HTML/CSS, React, Angular, JavaScript, TypeScript, Next.js, Blitz,js
 - 📊 Scientific Computing: MATLAB
 
 ## Education
