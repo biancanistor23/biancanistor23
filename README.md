@@ -32,6 +32,7 @@ Driven by civic initiative, I co-founded and lead **Asociația de Tineret "ELF"*
 - Collaborating across cross-functional teams to deliver enterprise-grade UI architectures and clean code standards.
 
 ### **Co-Founder & President** | Asociația de Tineret "ELF"
+*2024 - Present*
 *Oradea, Romania*
 - Leading organizational strategy, community outreach programs, and non-formal educational initiatives for youth empowerment.
 - Managing project lifecycles, team dynamics, and cross-cultural initiatives to foster civic involvement.
