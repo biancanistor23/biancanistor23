@@ -2,7 +2,7 @@
 
 # Nistor Bianca
 
-### Software Engineer @ GlobalLogic | M.Sc. Student @ UBB | Co-Founder & President @ Asociația de Tineret "ELF"
+### Software Engineer @ GlobalLogic | M.Sc. Student @ UBB | Co-Founder @ Asociația de Tineret "ELF"
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-nistor-812b20226/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bianca.nistor55@gmail.com)
